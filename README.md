@@ -18,11 +18,11 @@ Wykorzystywane podczas zajęć część zdjęcia szwedzkiej modelki Leny Söderb
 </p>
 <br/>
 
-**2 zajęcia** - Generacja i analiza histogramów.<br />
+**L3** - Tworzenie i analiza histogramów.<br />
 
-**Zadanie końcowe** Wykonać zaprezentowany poniżej wykres histogramów każdej z warstw RGB obrazu Lenny. Dokładny opis zadania  w [pliku](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/Z2-zadanie_tresc.py).
+**Zadanie końcowe** Wykonać zaprezentowany poniżej wykres histogramów każdej z warstw RGB obrazu Lenny. Dokładny opis zadania  w [pliku](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L3%20-%20histogramy.py).
 <p align="center">
-<img width="256" height="256" src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/Z2-Lenna_histogram.png">
+<img width="256" height="256" src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L3%20-%20Lenna_histogram.png">
 </p>
 <br />
 <ul>
