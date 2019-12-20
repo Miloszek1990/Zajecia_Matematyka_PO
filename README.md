@@ -30,6 +30,7 @@ Napisać dwie funkcje binaryzujące obraz jak poniżej. Pierwsza z progiem globa
 <img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/tekst.png" width="250"> 
 <img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L4%20-%20text_binarized_global_threshold.png" width="250">
 <img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L4%20-%20text_binarized_global_adaptive.png" width="250">
+<br/>
 Od lewej zdjęcie oryginalne, zdjęcie binaryzowane globalnie z progiem 5px, zdjęcie binaryzowane adaptacyjnie z ramką 3 i globalnym podwyższeniem progu 0.
 </p>
 
