@@ -19,12 +19,13 @@ Wygenerowania rysunki sinusa z pełnymi matematycznymi atrybutami, jak przesuni�
 **L3** - Tworzenie i analiza histogramów.<br />
 Wykonać zaprezentowany poniżej wykres histogramów każdej z warstw RGB obrazu Lenny. Dokładny opis zadania wraz z propozycją rozwiązania w [pliku](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L3%20-%20histogramy.py). Funkcje generującą histogram wrzucić do ogólnej biblioteki [polib.py](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/polib.py) - przetwarzanie obrazów library. 
 <p align="center">
-<img width="256" height="256" src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L3%20-%20Lenna_histogram.png">
+<img width="256" height="256" src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L3%20-%20Lenna_histogram.png"><br />
+Wykresy słupkowe histogramów zdjęcia Lenny z każdej warstwy RGB. Histogram koloru zielonego jest najszerszy i z tego powodu jest często wybierany jako reprezentacja w skali szarości.
 </p>
 <br />
 
 **L4** - Binaryzacja obrazów z progiem globalnym in adaptacyjnym.<br />
-Napisać dwie funkcje binaryzujące obraz jak poniżej. Pierwsza z progiem globalnym druga z progiem adaptacyjnym. Dokładny opis zadania wraz z propozycją rozwiązania w [pliku](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L4%20-%20binaryzacja.py). Funkcje generującą histogram wrzucić do ogólnej biblioteki [polib.py](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/polib.py)
+Napisać dwie funkcje binaryzujące obraz jak poniżej. Pierwsza z progiem globalnym druga z progiem adaptacyjnym. Dokładny opis zadania wraz z propozycją rozwiązania w [pliku](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L4%20-%20binaryzacja.py). Funkcje binaryzujące wrzucić do ogólnej biblioteki [polib.py](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/polib.py)
 <p align="center">
 <img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/tekst.png" width="250"> 
 <img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L4%20-%20text_binarized_global_threshold.png" width="250">
@@ -33,7 +34,17 @@ Od lewej zdjęcie oryginalne, zdjęcie binaryzowane globalnie z progiem 5px, zdj
 </p>
 <br />
 
-**L5** - Wyliczanie entropii obrazu. Wygeneruj N-bitowy obraz białego szumu i policz czy entropia jest równa zdefiniowanej ilości bitów. Dokładny opis zadania wraz z propozycją rozwiązania w [pliku](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L5%20-%20entropia%20obrazu.py). Funkcje generującą histogram wrzucić do ogólnej biblioteki [polib.py](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/polib.py)
+**L5** - Wyliczanie entropii obrazu. Wygeneruj N-bitowy obraz białego szumu i policz czy entropia jest równa zdefiniowanej ilości bitów. Dokładny opis zadania wraz z propozycją rozwiązania w [pliku](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/). Wykorzystać własną funkcję histogramu. Funkcje liczącą entropię wrzucić do ogólnej biblioteki [polib.py](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/polib.py)
+
+**L6** - Filtracja kontekstowa, rozmazywanie obrazu. Wykonaj filtracje rozmazującą poniższego obrazu, który przedstawia "Ciemną stronę księżyca". Filtracja powinna być wykonana za pomocą 3 metod - uśredniającej, medianowej i gaussowskiej. 
+<p align="center">
+<img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/ciemna_strona_ksiezyca_org.png" width="250"> 
+<img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/ciemna_strona_ksiezyca_brud.png" width="250">
+<br />oryginalne zdjęcie ciemnej strony księżyca (lewo) wraz z zanieczyszczeniami (prawo).
+</p>
+Dokładniejszy opis zadania wraz z propozycją rozwiązania w [pliku](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L6%20-%20image_blurring.py). Funkcje wykonywujące rozmazywanie wrzucić do ogólnej biblioteki [polib.py](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/polib.py)
+<br />
+
 <ul>
 [1] https://pl.wikipedia.org/wiki/Lenna_(fotografia)
 </ul>
