@@ -36,14 +36,21 @@ Od lewej zdjęcie oryginalne, zdjęcie binaryzowane globalnie z progiem 5px, zdj
 
 **L5** - Wyliczanie entropii obrazu. Wygeneruj N-bitowy obraz białego szumu i policz czy entropia jest równa zdefiniowanej ilości bitów. Dokładny opis zadania wraz z propozycją rozwiązania w [pliku](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/). Wykorzystać własną funkcję histogramu. Funkcje liczącą entropię wrzucić do ogólnej biblioteki [polib.py](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/polib.py)
 
-**L6** - Filtracja kontekstowa, rozmazywanie obrazu. Wykonaj filtracje rozmazującą poniższego obrazu, który przedstawia "Ciemną stronę księżyca". Filtracja powinna być wykonana za pomocą 3 metod - uśredniającej, medianowej i gaussowskiej. 
+**L6** - Filtracja kontekstowa, rozmazywanie obrazu. Wykonaj filtracje rozmazującą poniższego obrazu, który przedstawia "Ciemną stronę księżyca". Filtracja powinna być wykonana za pomocą 3 metod - uśredniającej, medianowej i gaussowskiej. Dokładniejszy opis zadania wraz z propozycją rozwiązania znajduje się w [pliku](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L6%20-%20image_blurring.py). Funkcje wykonywujące rozmazywanie wrzucić do ogólnej biblioteki [polib.py](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/polib.py).
 <p align="center">
 <img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/ciemna_strona_ksiezyca_org.png" width="250"> 
 <img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/ciemna_strona_ksiezyca_brud.png" width="250">
-<br />oryginalne zdjęcie ciemnej strony księżyca (lewo) wraz z zanieczyszczeniami (prawo).
+Oryginalne zdjęcie ciemnej strony księżyca (lewo) wraz z zanieczyszczeniami (prawo).
 </p>
-Dokładniejszy opis zadania wraz z propozycją rozwiązania w [pliku](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L6%20-%20image_blurring.py). Funkcje wykonywujące rozmazywanie wrzucić do ogólnej biblioteki [polib.py](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/polib.py)
-<br />
+</br>
+
+<p align="center">
+<img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L6 - mean_filter_3-5-7.png" width="800">
+<img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L6 - median_filter_3-5-7.png" width="800">
+</br>
+Wyniki rozmazywania ramkami o bokach 3, 5, 7 dla filtru uśredniającego (góra) i medianowego (dół).
+</p>
+</br>
 
 <ul>
 [1] https://pl.wikipedia.org/wiki/Lenna_(fotografia)
