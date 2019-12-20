@@ -29,10 +29,9 @@ Napisać dwie funkcje binaryzujące obraz jak poniżej. Pierwsza z progiem globa
 <p align="center">
 <img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/tekst.png" width="250"> 
 <img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L4%20-%20text_binarized_global_threshold.png" width="250">
-<img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L4%20-%20text_binarized_global_adaptive.png" width="250"> <br />
+<img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/L4%20-%20text_binarized_global_adaptive.png" width="250">
 Od lewej zdjęcie oryginalne, zdjęcie binaryzowane globalnie z progiem 5px, zdjęcie binaryzowane adaptacyjnie z ramką 3 i globalnym podwyższeniem progu 0.
 </p>
-<br />
 
 **L5** - Wyliczanie entropii obrazu. Wygeneruj N-bitowy obraz białego szumu i policz czy entropia jest równa zdefiniowanej ilości bitów. Dokładny opis zadania wraz z propozycją rozwiązania w [pliku](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/). Wykorzystać własną funkcję histogramu. Funkcje liczącą entropię wrzucić do ogólnej biblioteki [polib.py](https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/polib.py)
 
@@ -40,6 +39,7 @@ Od lewej zdjęcie oryginalne, zdjęcie binaryzowane globalnie z progiem 5px, zdj
 <p align="center">
 <img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/ciemna_strona_ksiezyca_org.png" width="250"> 
 <img src="https://github.com/Miloszek1990/Zajecia_Matematyka_PO/blob/master/ciemna_strona_ksiezyca_brud.png" width="250">
+</br>
 Oryginalne zdjęcie ciemnej strony księżyca (lewo) wraz z zanieczyszczeniami (prawo).
 </p>
 </br>
